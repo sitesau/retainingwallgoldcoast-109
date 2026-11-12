@@ -1,0 +1,22 @@
+{
+  "wheel_id": 877,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-109",
+  "project": "retaining-wall-contractors-gold-coast-what-to-expect-efb90c87b5",
+  "parent_t1_ref": "retainingwallgoldcoast-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining wall contractors gold coast what to expect",
+  "intended_url": "https://sitesau.github.io/retainingwallgoldcoast-109/",
+  "tier": "T2",
+  "writeback_nonce": "389a0c306f3dc4f6",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-gold-coast-80e19e1d1364f9228273e963d/",
+      "anchor": "retaining wall contractors gold coast explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
